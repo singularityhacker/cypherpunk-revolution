@@ -314,7 +314,7 @@ body.dark-page, .dark-page .clients, .dark-page .block{background:#242526;}
 	.plans .features-list{display:none;}
 	.nav-tabs li i{font-size:22px; padding:6px 12px;}
 	.nav-tabs li{margin:0 2px;}
-	.banner-img-wrap{display:none;}
+	/*.banner-img-wrap{display:none;}*/
 	.banner-txt-wrap{float:none; width:100%;}
 
 /*	.home .logo-lg {
